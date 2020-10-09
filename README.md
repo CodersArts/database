@@ -1,7 +1,7 @@
 # Database Resources And Schemas
 
 ## SQL server database schemas
-- [Movie Database DDL](Create Movies Database 2016.sql)
+- [Movie Database DDL](https://github.com/CodersArts/database/blob/master/Create%20Movies%20Database%202016.sql)
 
 ### are you looking for [database assignment help](https://www.codersarts.com/database-assignment-help)?
 We can certainly assist you!
