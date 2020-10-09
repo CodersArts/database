@@ -1,7 +1,14 @@
 # Database Resources And Schemas
 
+## MySQL database schemas
+- [Employee_data.sql](https://github.com/CodersArts/database/blob/master/Employee_data.sql)
+- [Hospital_management_Database.sql](https://github.com/CodersArts/database/blob/master/Hospital_management_Database.sql)
+- [Electronic Medical Record database schema](https://github.com/CodersArts/database/blob/master/hw5_adr_setup.sql)
 ## SQL server database schemas
 - [Movie Database DDL](https://github.com/CodersArts/database/blob/master/Create%20Movies%20Database%202016.sql)
+
+
+MySQL Administrator dump 1.4
 
 ### are you looking for [database assignment help](https://www.codersarts.com/database-assignment-help)?
 We can certainly assist you!
