@@ -3,9 +3,14 @@
 ## MySQL database schemas
 - [Employee_data.sql](https://github.com/CodersArts/database/blob/master/Employee_data.sql)
 - [Hospital_management_Database.sql](https://github.com/CodersArts/database/blob/master/Hospital_management_Database.sql)
+- [Order Management SQL Script](https://github.com/CodersArts/database/commit/ac8dc96217d5845769be3b587912bb775858f47d)
 - [Electronic Medical Record database schema](https://github.com/CodersArts/database/blob/master/hw5_adr_setup.sql)
 ## SQL server database schemas
 - [Movie Database DDL](https://github.com/CodersArts/database/blob/master/Create%20Movies%20Database%202016.sql)
+- [North wind databse](https://github.com/CodersArts/database/blob/master/NorthwindCreateandLoad.sql)
+
+## Excel database schemas
+- [nobel.xlsx](https://github.com/CodersArts/database/blob/master/nobel.xlsx)
 
 
 MySQL Administrator dump 1.4
