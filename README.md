@@ -12,7 +12,7 @@
 ## Excel database schemas
 - [nobel.xlsx](https://github.com/CodersArts/database/blob/master/nobel.xlsx)
 
-## SQLite Database schemsa
+## SQLite Database schemas
 - [SalesOrders](https://github.com/CodersArts/database/blob/master/SalesOrders.sqlite)
 - [EntertainmentAgency](https://github.com/CodersArts/database/blob/master/EntertainmentAgency.sqlite)
 - [BowlingLeague](https://github.com/CodersArts/database/blob/master/BowlingLeague.sqlite)
