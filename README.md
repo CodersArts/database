@@ -13,7 +13,7 @@
 - [nobel.xlsx](https://github.com/CodersArts/database/blob/master/nobel.xlsx)
 
 ## SQLite Database schemsa
-- [order](https://github.com/CodersArts/database/blob/master/Employee_data.sql)
+- [order](https://github.com/CodersArts/database/blob/master/SalesOrders.sqlite)
 
 ### are you looking for [database assignment help](https://www.codersarts.com/database-assignment-help)?
 We can certainly assist you!
