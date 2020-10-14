@@ -14,6 +14,7 @@
 
 ## SQLite Database schemsa
 - [SalesOrders](https://github.com/CodersArts/database/blob/master/SalesOrders.sqlite)
+- [EntertainmentAgency](https://github.com/CodersArts/database/blob/master/EntertainmentAgency.sqlite)
 
 ### are you looking for [database assignment help](https://www.codersarts.com/database-assignment-help)?
 We can certainly assist you!
